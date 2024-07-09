@@ -5,7 +5,7 @@
 		"firstName": {
 			"type": "string"
 		},
-		"lastName": {
+		"<%= data.ID %> 1": {
 			"type": "string"
 		},
 		"age": {
